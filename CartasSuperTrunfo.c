@@ -1,4 +1,12 @@
-#include <stdio.h>
+#include <stdio.h> 
+Estado: A
+    Codigo da Carta: A01
+    Nome da Cidade: Pernambuco
+    População: 9059000
+    Área: 98067,87 km²
+    Pontos Turísticos: 57
+    PIB: 220814000 milhões
+
 
 // Desafio Super Trunfo - Países
 // Tema 1 - Cadastro das Cartas
